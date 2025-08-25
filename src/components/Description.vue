@@ -3,7 +3,7 @@
     <AnimateOnVisible name="fadeDown" :duration="1">
       <Title 
         :title="content?.object?.metadata?.title || 'Sobre mi'" 
-        :description="content?.object?.metadata?.description || '-----------'" 
+        :description="content?.object?.metadata?.description || '|||||'" 
       />
     </AnimateOnVisible>
 

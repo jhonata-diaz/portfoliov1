@@ -89,6 +89,14 @@ export default {
         },
         {
           date: "2025",
+          title: "Game Multiplayer",
+          content: "Desarollo de juego multijugador desarollado en c++ y graficos 3d.",
+          image: "multiplayer.jpg",
+          color: "#3f51b5",
+          tag: "Game"
+        },
+        {
+          date: "2025",
           title: "Games 2D Y 3D",
           content: "Desarollo de juegos en 2d y 3d , space invaders, Juegos de cartas, tower defense, 3d collition Object, terrain world explorer, animaciones 3d, tank game.",
           image: "game2d3d.png",
